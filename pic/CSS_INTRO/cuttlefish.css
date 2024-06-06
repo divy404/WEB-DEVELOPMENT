@@ -13,3 +13,16 @@ a{
 p{
     line-height: 2;
 }
+*{
+    background-color: pink;
+}
+button{
+    font-size: 30px;
+}
+h1,h2{
+    color: green;
+}
+#signup{
+    background-color: #1d3557;
+    color: red;
+}
