@@ -30,3 +30,23 @@ section.post{
 a[href*="google"]{
     color: rgb(62, 1, 205);
 }
+button:hover{
+    background-color: red;
+    color: #f1faee;
+}
+a:hover{
+    text-decoration: underline;
+}
+.post button:active{
+    background-color: #02c39a;
+}
+h2::first-letter{
+    font-size: 50px;
+
+}
+p::first-line{
+    color: purple;
+}
+p::selection{
+    background-color: yellow;
+}
