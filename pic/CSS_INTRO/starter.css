@@ -6,3 +6,27 @@ span{
     font-size: 16px;
     background-color: red;
 }
+.post a{
+    color: #a8dadc;
+}
+h2+button{
+    color: red;
+}
+footer a{
+    color: red;
+}
+footer>a{
+    color: #457b9d;
+}
+input[type="password"]{
+    color: rgb(77, 0, 0);
+}
+section[class="post"]{
+    background-color: purple;
+}
+section.post{
+    color:pink ;
+}
+a[href*="google"]{
+    color: rgb(62, 1, 205);
+}
